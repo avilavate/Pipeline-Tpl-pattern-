@@ -9,6 +9,7 @@ namespace ConsoleApp2
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Running..");
         }
     }
 }
